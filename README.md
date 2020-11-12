@@ -4,6 +4,8 @@
 
 ![](https://github.com/lobanow/Saaty/blob/main/9%2B-.png)
 
-проект выполнен в среде spyder для python 3
+проект выполнен в среде ```spyder для python 3```
+
 для открытия потребуется```python```  
+
 для запуска нужен файл ```Saaty.py```
